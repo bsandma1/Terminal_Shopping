@@ -10,6 +10,6 @@ I didn't have nearly any experience with OOP before this, other than what I lear
 When the user is in shop mode, to add an item to the cart, make sure to include the entire name of the item (including the parentheses) or it will say the item doesn't exist.  The case doesn't have to be exact to work.  
 
 Future changes:
-- Shorten and simplify code
-- Create better shopping functionality
+- Shorten and simplify code (add functions, etc.)
+- Create better shopping functionality (selecting items easier, etc.)
 - improve reciept format
