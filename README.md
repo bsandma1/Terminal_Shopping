@@ -1,7 +1,7 @@
 # Terminal_Shopping
 
 This is my FIRST self-guided project!  
-Shop through a recreation of the Aldi grocery store that I used to manage and complete your shopping experience by checking out at the register.
+Shop through a rough recreation of an Aldi grocery store and complete your shopping experience by checking out at the register.
 
 While working through the CodeCademy Computer Science career path, at about 20% through, I was instructed to create a super small 'project' using OOP and to have at least 2 classes and a few instances and methods for those classes.  For whatever reason, I just decided to keep going and create a text-based terminal game/adventure where you can move from aisle to aisle, shop the store, remove items from your cart, and go through the checkout process, which is the final point of the 'shopping experience'.  
 
